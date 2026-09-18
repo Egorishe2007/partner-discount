@@ -13,7 +13,8 @@ from partner_service import get_partners_with_discounts
 
 WINDOW_TITLE = "CRM: Список партнеров и скидок"
 WINDOW_SUBTITLE = "Объемы продаж и рассчитанные скидки партнеров"
-RESOURCES_DIR = "resources"
+PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
+RESOURCES_DIR = os.path.join(PROJECT_DIR, "resources")
 LOGO_FILE = "logo.png"
 ICON_FILE = "icon.ico"
 CARD_PADDING = 14
