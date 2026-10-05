@@ -1,0 +1,2 @@
+psycopg2-binary==2.9.13
+coverage==7.16.1
