@@ -1,0 +1,16 @@
+file,line,field,before,after
+partners_raw.csv,2,partner_name," ООО ""Вектор"" ",ООО | Вектор
+partners_raw.csv,2,email, vector@mail.ru,vector@mail.ru
+partners_raw.csv,3,partner_name,ИП ...Петров  A.B.,ИП | Петров А.В.
+partners_raw.csv,3,email,petrov@yandex.ru ,petrov@yandex.ru
+partners_raw.csv,4,partner_name,"АО ""Технолоджис""",АО | Технолоджис
+partners_raw.csv,5,partner_name,"  ООО ""Альфа"" ",ООО | Альфа
+partners_raw.csv,5,email,  alpha@gmail.com,alpha@gmail.com
+partners_raw.csv,6,partner_name,ИП Сидоров И.И.,ИП | Сидоров И.И.
+products_raw.csv,2,product_name, Ноутбук Pro ,Ноутбук Pro
+products_raw.csv,3,product_name, Смартфон X ,Смартфон X
+sales_history_raw.csv,2,sale_date,25.10.2023,2023-10-25
+sales_history_raw.csv,3,sale_date,2023/10/26,2023-10-26
+sales_history_raw.csv,5,sale_date,28-10-2023,2023-10-28
+sales_history_raw.csv,6,sale_date,2023.10.29,2023-10-29
+sales_history_raw.csv,7,sale_date, 2023-10-30 ,2023-10-30
